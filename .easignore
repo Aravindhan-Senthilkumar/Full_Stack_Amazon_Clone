@@ -1,0 +1,25 @@
+# Ignore dependencies and node_modules
+node_modules/
+
+# Ignore API folder (backend logic that isn't required in the build)
+api/
+
+
+# Logs and temporary files
+*.log
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+
+# Expo development files
+.expo/
+.expo-shared/
+
+# Custom build outputs
+build/
+dist/
+
+# Git and version control
+.git/
