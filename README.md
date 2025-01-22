@@ -1,6 +1,6 @@
 # Full-Stack Amazon Clone
 
-Welcome to the **Amazon Clone**, a fully functional e-commerce web and mobile application built using modern web technologies. This app replicates the core features of an online marketplace, including user authentication, product listing, cart management, and order tracking.
+Welcome to the **Amazon Clone**, a fully functional e-commerce mobile application built using modern web technologies. This app replicates the core features of an online marketplace, including user authentication, product listing, cart management, and order tracking.
 
 ---
 
