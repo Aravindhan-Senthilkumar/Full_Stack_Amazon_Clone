@@ -16,9 +16,11 @@ Welcome to the **Amazon Clone**, a fully functional e-commerce mobile applicatio
 - **MongoDB**: Robust database for user, product, and order data.
 - **Authentication**: Secure login and registration using Express and MongoDB.
 
-### **Functionality**
+## **Functionality**
+
 1. **User Authentication**:
    - Registration and Login with secure password storage.
+   - Email verification after registering.
 2. **Product Listing**:
    - View and search for products.
 3. **Cart Management**:
